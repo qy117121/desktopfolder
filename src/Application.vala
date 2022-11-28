@@ -444,7 +444,7 @@ public class DesktopFolderApp : Gtk.Application {
     }
 
     /** the desktop folder name */
-    public static string desktop_folder_name = "Desktop";
+    public static string desktop_folder_name = "桌面";
 
     /**
      * @name get_app_folder
